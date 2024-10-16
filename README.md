@@ -25,58 +25,58 @@ touch job_application_form.py
 ## Form Design
 
 - **Required Input Fields**
-- **Name*
-- **Email*
--Phone Number
--Address
--Position Applying For
--Education
--Work Experience
--Skills
--References
+- *Name*
+- *Email*
+- *Phone Number*
+- *Address*
+- *Position Applying For*
+- *Education*
+- *Work Experience*
+- *Skills*
+- *References*
 
 ## Collecting User Input
 
--Using input() to Collect Data
--Storing Data in a Dictionary
+- *Using input() to Collect Data*
+- *Storing Data in a Dictionary*
 
 ## Input Validation
 
--Validating Email Addresses using Regular Expressions
--Validating Phone Numbers
--Additional Validation Logic
+- *Validating Email Addresses using Regular Expressions*
+- *Validating Phone Numbers*
+- *Additional Validation Logic*
 
 ## Saving Application Data
 
--Saving to a Text File
--Saving to a CSV File
--CSV Data Structure
+- *Saving to a Text File*
+- *Saving to a CSV File*
+- *CSV Data Structure*
 
 ## Enhancements
 
--Data Entry Validation
--Automating Field Validations
+- *Data Entry Validation*
+- *Automating Field Validations*
 
 ## Testing the Application
 
--Running the Application in the Command Line
+- *Running the Application in the Command Line*
 
 ```bash
 python job_application_form.py
 ```
 
--Test Cases for Validation
--Simulating Multiple User Inputs
+- *Test Cases for Validation*
+- *Simulating Multiple User Inputs*
 
 ## Conclusion
 
--Implementing a Graphical User Interface (GUI) with Tkinter
--Storing Data in a Database (SQLite, MySQL, etc.)
--Creating a Web-Based Form with Flask or Django
--Summary of Learning Outcomes
--Possible Next Steps
+- *Implementing a Graphical User Interface (GUI) with Tkinter*
+- *Storing Data in a Database (SQLite, MySQL, etc.)*
+- *Creating a Web-Based Form with Flask or Django*
+- *Summary of Learning Outcomes*
+- *Possible Next Steps*
 
 ## References
 
--Python Libraries Used
--Resources for Further Learning
+- *Python Libraries Used*
+- *Resources for Further Learning*
