@@ -24,7 +24,7 @@ touch job_application_form.py
 
 ## Form Design
 
--Required Input Fields
+- **Required Input Fields**
 -Name
 -Email
 -Phone Number
